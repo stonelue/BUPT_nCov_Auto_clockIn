@@ -1,4 +1,4 @@
-LOGIN_URL = "https://app.bupt.edu.cn/uc/wap/login/check"  # 授权URL
+LOGIN_URL = "https://auth.bupt.edu.cn/authserver/login?service=https%3A%2F%2Fapp.bupt.edu.cn%2Fa_bupt%2Fapi%2Fsso%2Fcas%3Fredirect%3Dhttps%253A%252F%252Fapp.bupt.edu.cn%252Fncov%252Fwap%252Fdefault%252Findex%26from%3Dwap"  # 授权URL
 FORM_URL = "https://app.bupt.edu.cn/ncov/wap/default/save"  # 填报URL
 
 
